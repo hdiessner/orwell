@@ -4,9 +4,11 @@ Innenraumsensor für IoT / Smart Home
 # Hardware
 
 ## ESP
+SDA=4 => D2
+SCL=5 => D1
 
 ## PIR
-Connected pin D1
+Connected pin SD3 aka GPIO10 aka SDD3 (4th from top left)
 
 ## BME680
 I2C
